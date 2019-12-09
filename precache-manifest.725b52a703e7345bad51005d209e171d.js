@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ed9e00b52530a08a1d126783c58ab40",
+    "revision": "ee7855cf34dd09edde2fc84fc7b228bd",
     "url": "/soccer-story/index.html"
   },
   {
-    "revision": "01381970e73c4a8b3dbd",
-    "url": "/soccer-story/static/css/main.5df7d988.chunk.css"
+    "revision": "bb4e5686a1413ddacaab",
+    "url": "/soccer-story/static/css/main.6487e446.chunk.css"
   },
   {
     "revision": "2defc2550bc12b0aab4a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soccer-story/static/js/2.e0fa2475.chunk.js.LICENSE"
   },
   {
-    "revision": "01381970e73c4a8b3dbd",
-    "url": "/soccer-story/static/js/main.e1ba3ed9.chunk.js"
+    "revision": "bb4e5686a1413ddacaab",
+    "url": "/soccer-story/static/js/main.7781912a.chunk.js"
   },
   {
     "revision": "2950d395c17293f7d8f0",
