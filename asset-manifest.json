@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/soccer-story/static/css/main.18f0f7fb.chunk.css",
-    "main.js": "/soccer-story/static/js/main.beb710a4.chunk.js",
-    "main.js.map": "/soccer-story/static/js/main.beb710a4.chunk.js.map",
+    "main.js": "/soccer-story/static/js/main.cf1212a4.chunk.js",
+    "main.js.map": "/soccer-story/static/js/main.cf1212a4.chunk.js.map",
     "runtime-main.js": "/soccer-story/static/js/runtime-main.eb7cd8d6.js",
     "runtime-main.js.map": "/soccer-story/static/js/runtime-main.eb7cd8d6.js.map",
     "static/js/2.858c0d7d.chunk.js": "/soccer-story/static/js/2.858c0d7d.chunk.js",
     "static/js/2.858c0d7d.chunk.js.map": "/soccer-story/static/js/2.858c0d7d.chunk.js.map",
     "index.html": "/soccer-story/index.html",
-    "precache-manifest.91864f07ad6ad56aff4149a1f2937e66.js": "/soccer-story/precache-manifest.91864f07ad6ad56aff4149a1f2937e66.js",
+    "precache-manifest.46f8ef6a7e2c31f5c26e604b23ccc2d6.js": "/soccer-story/precache-manifest.46f8ef6a7e2c31f5c26e604b23ccc2d6.js",
     "service-worker.js": "/soccer-story/service-worker.js",
     "static/css/main.18f0f7fb.chunk.css.map": "/soccer-story/static/css/main.18f0f7fb.chunk.css.map",
     "static/js/2.858c0d7d.chunk.js.LICENSE": "/soccer-story/static/js/2.858c0d7d.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.eb7cd8d6.js",
     "static/js/2.858c0d7d.chunk.js",
     "static/css/main.18f0f7fb.chunk.css",
-    "static/js/main.beb710a4.chunk.js"
+    "static/js/main.cf1212a4.chunk.js"
   ]
 }
